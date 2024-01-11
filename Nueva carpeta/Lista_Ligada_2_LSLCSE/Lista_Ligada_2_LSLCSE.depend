@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621352005 source:d:\mega\megasync\clases\estructuradatosi_tareas\programas\lista_ligada_2_lslcse\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+

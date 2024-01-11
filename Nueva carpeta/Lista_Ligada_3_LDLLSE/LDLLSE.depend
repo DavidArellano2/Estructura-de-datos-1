@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1621353562 source:c:\users\jairo\downloads\ldllse\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+
+1621357887 source:d:\mega\megasync\clases\estructuradatosi_tareas\programas\lista_ligada_3_ldllse\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+
